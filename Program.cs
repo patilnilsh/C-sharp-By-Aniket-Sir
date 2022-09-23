@@ -1,16 +1,13 @@
 ﻿using System;
-using System.IO;
 
-namespace AdvacedCSharp
+namespace CSharpByAniketSir
 {
-   
-
-   
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();    
         }
     }
 }
